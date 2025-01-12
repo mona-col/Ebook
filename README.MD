@@ -22,7 +22,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema renda extra na internet, o ebook é do nicho de finanças e o subnicho é de renda extra, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook com foco em renda extra na internet para mulheres que precisam ganhar dinheiro com seu tempo livre para ajudar no orçamento familiar. Explique ideias criativas sempre de uma maneira simples. Deixe o texto enxuto e sempre traga exemplos de sites reais.Deixe um título sugestivo por tópico. Inclua um capitudo para falar da autora e sempre gere link de vendas para cada tópico criado |
+| conteúdo | Faça um texto para ebook com foco em 10 maneiras práticas para fazer dinheiro na internet para mulheres que precisam ganhar dinheiro com seu tempo livre para ajudar no orçamento familiar. Explique ideias criativas sempre de uma maneira simples. Deixe o texto enxuto e sempre traga exemplos de sites reais. Deixe um título sugestivo por tópico. Inclua um capitudo para falar da autora e sempre gere link de vendas para cada tópico criado |
 
 
 Midjourney：
@@ -41,4 +41,4 @@ Midjourney：
 - Imagens utilizadas de fundo
 - ebook gerado durante as aulas 
 
-por [Monaliza Collaço](https://github.com/)
+por [Monaliza Collaço](https://github.com/mona-col/Ebook/blob/main/README.MD)
